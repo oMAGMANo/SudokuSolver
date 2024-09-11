@@ -9,7 +9,7 @@ The Sudoku Solver is an advanced Python application designed to solve Sudoku puz
 
 - **Input**: The application accepts images containing Sudoku puzzles. These images can be photographs or scanned copies, ideally clear and well-lit to ensure accurate detection. Supported formats include JPEG, PNG, and other common image file types.
 
-  ![Sample Input](jun27l.jpg)  
+  ![Sample Input](input.jpg)  
   *(Example of a Sudoku puzzle image that the application will process)*
 
 - **Output**: The application outputs the solved Sudoku puzzle, either as an image with the completed grid or in text format, depending on user preference.
